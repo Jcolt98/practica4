@@ -1,0 +1,41 @@
+header
+{
+    height: 330px;
+    width: 1400px;
+    float: left;
+    list-style: none;
+}
+.seccion1
+{
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+main
+{
+    height: 330px;
+    width: 1400px;
+    float: left;
+    list-style: none;
+}
+.busqueda
+{
+   width: 1000px;
+   height: 40px;
+}
+.seccion2
+{
+    border: 5px solid black;
+    margin: 5px;
+    float: left;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.seccion3
+{
+    border: 5px solid black;
+    margin: 5px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
